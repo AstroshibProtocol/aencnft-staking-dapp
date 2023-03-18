@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is an NFT Staking DApp for AstroShib Empire NFTs, where AENC NFT owners can stake their ERC721 NFTs and earn $ASROB (ERC20 tokens) every minute
+
 This example demonstrates a use of several thirdweb tools to create an NFT Staking application. In this example, users can stake their ERC721 NFTs and earn ERC20 tokens as a reward. It combines:
 
 - [NFT Drop contract](https://thirdweb.com/thirdweb.eth/DropERC721): To create a collection of NFTs that users can stake.
